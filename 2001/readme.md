@@ -1,5 +1,4 @@
 # thesallab.opendata 2001
-## About
 Open data for manuscript entitled "Identifying Searchers’ Domain Expertise in Engineering Tasks", submitted as a short paper to SIGIR 2020.
 * [SingleFeature.xlsx](SingleFeature.xlsx): Results of all single-feature models, both in Setup 1 and 2.
 * [DerivedFeature.xlsx](DerivedFeature.xlsx): Results of all single-feature models of derived features, both in Setup 1 and 2.
